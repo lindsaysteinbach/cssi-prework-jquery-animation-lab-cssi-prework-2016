@@ -11,4 +11,8 @@ h1 {
   font-size: 40px;
   color: #FF3399;
 }
+
+img {
+  position: relative;
+}
 /* change the img position style so that it actually moves*/
